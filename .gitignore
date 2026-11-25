@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment and editor files
+.env
+.vscode/
+.DS_Store
+
+# Large trained model files
+lab_outputs/study_tip_gpt2/
+
+# Temporary training files
+lab_outputs/checkpoints/
